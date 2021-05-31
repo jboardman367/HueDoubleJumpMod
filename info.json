@@ -1,0 +1,7 @@
+{
+	"Id": "HueDoubleJumpMod",
+	"DisplayName": "Enable Doublejumps",
+	"Author": "luminousLamp367",
+	"Version": "1.0.0",
+	"EntryMethod": "HueDoubleJumpMod.Main.Load"
+}
